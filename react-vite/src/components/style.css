@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h3{margin: 10px 0;
+    text-align: center;
+}
+nav{
+    margin-bottom: 40px;
+    padding: 10px;
+    background-color: black;
+    }
+    ul{
+        list-style: none;
+        display: flex;
+        justify-content: center;
+    }
+li{
+    margin-right: 80px;
+    color:white;
+    font-size: 18px;
+}
+button{
+    padding: 7px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+h2{
+    text-align: center;
+    margin: 20px;
+}
+section{
+    margin: 20px 20px;
+}
+#feeds{
+    display: flex;
+    justify-content: center;
+}
+
+
+.foots{
+    border: 2px solid black;
+    position: absolute;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1.2rem;
+    bottom: 0%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
